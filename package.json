@@ -1,0 +1,32 @@
+{
+  "name": "exists",
+  "version": "0.0.0",
+  "description": "exists, undefined, null, value, check, util, utils",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tjmehta/exists.git"
+  },
+  "keywords": [
+    "exists",
+    "exist",
+    "util",
+    "check",
+    "utils",
+    "undefined",
+    "null"
+  ],
+  "author": "Tejesh Mehta",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tjmehta/exists/issues"
+  },
+  "homepage": "https://github.com/tjmehta/exists",
+  "devDependencies": {
+    "should": "~3.2.0-beta1",
+    "mocha": "~1.18.2"
+  }
+}

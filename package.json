@@ -1,7 +1,7 @@
 {
   "name": "exists",
   "version": "0.0.0",
-  "description": "exists, undefined, null, value, check, util, utils",
+  "description": "exists and allExist functions. plain and simple",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
@@ -17,7 +17,9 @@
     "check",
     "utils",
     "undefined",
-    "null"
+    "null",
+    "allExist",
+    "allExists"
   ],
   "author": "Tejesh Mehta",
   "license": "MIT",

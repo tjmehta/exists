@@ -5,6 +5,8 @@ node exists function. plain and simple.
 
 ## exists(thing)
 
+returns true for anything other than null or undefined
+
 ```js
 var exists = require('exists');
 
@@ -17,6 +19,8 @@ exists(false);     // true
 ```
 
 ## exists.allExist(thing)
+
+returns true if all arguments are not null or undefined
 
 ```js
 var allExist = require('exists').allExist;

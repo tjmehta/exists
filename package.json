@@ -1,6 +1,6 @@
 {
   "name": "exists",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "exists and allExist functions. plain and simple",
   "main": "index.js",
   "scripts": {

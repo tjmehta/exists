@@ -28,7 +28,7 @@
   },
   "homepage": "https://github.com/tjmehta/exists",
   "devDependencies": {
-    "should": "~11.1.2",
+    "should": "~13.1.1",
     "mocha": "~3.2.0"
   }
 }
